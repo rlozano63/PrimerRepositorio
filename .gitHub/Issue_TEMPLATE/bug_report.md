@@ -1,7 +1,7 @@
 
 ---
 
-name: "Bug Report"
+name: "Bug Reporte ok"
 about: "Reportar un error para ayudarnos a mejorar el proyecto."
 title: "[BUG] - Descripción corta del error"
 labels: bug
